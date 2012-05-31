@@ -1,6 +1,6 @@
 {
-    "src_path": "C:\\p4\\p4-wdpro\\Projects\\NGE\\Sites\\pep\\main\\src\\",
-    "target_path": "C:/p4/p4-wdpro/Projects/NGE/Sites/pep/main/target/packaged-application/",
-    "sync_folder_name": "p4-wdpro",
+    "src_path": "C:\\code-source\\projectA\\",
+    "target_path": "C:/target",
+    "sync_folder_name": "projectA",
     "max_file_size_bytes": 1000000
 }
